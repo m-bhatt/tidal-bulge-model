@@ -10,8 +10,9 @@ The tides in reality are influenced by myriad other factors, including the prese
 
 The analemma is a figure-8 shape that occurs when tracking the location of the Sun at the same time each day for a full year. The vertical up-and-down motion results from the Earth's axial tilt (also the cause of the seasons), while the horizontal back-and-forth results from Earth's orbital eccentricity (elliptical shape). 
 
-![image](https://github.com/user-attachments/assets/db11ba6a-233d-45f1-a20d-2b195fe649a7)
+<img width="935" alt="Screenshot 2024-08-16 at 11 03 59 AM" src="https://github.com/user-attachments/assets/eece9d0d-8128-42ac-a648-9bb53d7c5272">
 - Source: https://www.skymarvels.com/infopages/vids/Earth%20-%20DayNight%20001.htm
+
 
 <img width="408" alt="image" src="https://github.com/user-attachments/assets/679582c6-281d-4573-9d2c-f527d3d4ff3e">
 - Source: https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html 
