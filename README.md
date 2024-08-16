@@ -41,3 +41,5 @@ Known issues:
 - does not account for tidal lag, in which the tidal bulge is approximately 50 minutes offset from the Moon's passage overhead, rather than directly aligned with it.
 ![image](https://github.com/user-attachments/assets/a163eac4-40b3-427e-bd3b-109698946d3d)
 - source: https://science.nasa.gov/moon/tides/
+
+Youtube link: https://www.youtube.com/watch?v=eADuR4ZpXUU
