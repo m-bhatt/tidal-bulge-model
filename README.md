@@ -4,12 +4,12 @@ This repository shows the movement of simulated tidal bulges and analemma across
 
 Animation previews, as they will likely need to be downloaded: 
 
-2023-tidal-bulge-and-analemma.mp4:
+- 2023-tidal-bulge-and-analemma.mp4:
 
 <img width="925" alt="Screenshot 2024-08-16 at 11 18 04 AM" src="https://github.com/user-attachments/assets/6ccf7095-8750-490a-bc5c-88a230c52790">
 
 
-April-5-2023-tidal-bulge.mp4:
+- April-5-2023-tidal-bulge.mp4:
 
 <img width="924" alt="Screenshot 2024-08-16 at 11 17 41 AM" src="https://github.com/user-attachments/assets/f0bc9121-c5e7-4813-a1a4-9e927ed7669b">
 
