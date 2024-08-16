@@ -2,6 +2,17 @@
 
 This repository shows the movement of simulated tidal bulges and analemma across the Earth's surface over a single day and over 365 days in 2023. It aims to spatially show the relation between the position of the Moon and Sun relative to Earth and the resulting net force enacted on the surface.
 
+Animation previews, as they will likely need to be downloaded: 
+2023-tidal-bulge-and-analemma.mp4:
+
+<img width="925" alt="Screenshot 2024-08-16 at 11 18 04 AM" src="https://github.com/user-attachments/assets/6ccf7095-8750-490a-bc5c-88a230c52790">
+
+
+April-5-2023-tidal-bulge.mp4:
+
+<img width="924" alt="Screenshot 2024-08-16 at 11 17 41 AM" src="https://github.com/user-attachments/assets/f0bc9121-c5e7-4813-a1a4-9e927ed7669b">
+
+
 In the tidal bulge model, the combined gravitational forces of the Sun and Moon on the Earth's surface drive the creation of tidal "bulges," areas with high and low water levels. Areas experiencing high net force, when the Sun and Moon are approximately aligned, observe a "spring tide," while areas experiencing low net force, when the Sun and Moon are at approximately 90 degree angles, observe a "neap tide." 
 
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/36a3f870-ab16-4f36-8552-b3fc36d45cc7">
